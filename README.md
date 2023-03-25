@@ -10,7 +10,7 @@ them every 10 mins. It can also reply with sarcastic responses to messages.
 
 First, install all packages required:
 
-``pip install -r requirements.txt`` on Windows or ``pip3 install -r requirements.txt`` on MacOS
+``pip install -r requirements.txt`` on Windows or ``pip3 install -r requirements.txt`` on MacOS and Linux
 
 
 replace ``CLIENT_TOKEN = ''``  with your token from the discord developer portal
