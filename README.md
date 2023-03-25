@@ -4,6 +4,14 @@ A Discord news bot with AI chatbot functionalities thanks to the OpenAI API. The
 them every 10 mins. It can also reply with sarcastic responses to messages.
 
 
+**NOTE:**
+
+The news API might not send new articles of they are not found every 10 minutes. Please do not spam messages as the bot can get rate limited. It is advisory to use add slowmode to your channel.
+
+++Limitations:**
+
+The bot does not remember past prompts, but you could deep train your own model . The bot can only fix 1-2 lines of code due to limitations from the OpenAI API. The bot does not always come up with accurate responses. Feel free to tweak around with the ``prompt =`` variable to create your own behhaviours.
+
 
 
 **Bot Usage:**
@@ -30,17 +38,5 @@ params = {
     # Get your news API at https://newsapi.org
 }``
 
-**NOTE:**
-
-The news API might not send new articles of they are not found every 10 minutes.
-Please do not spam messages as the bot can get rate limited. It is advisory to use add slowmode to your channel.
-
-
-
-**Limitations:**
-
-The bot does not remember past prompts, but you could deep train your own model .
-The bot can only fix 1-2 lines of code due to limitations from the OpenAI API.
-The bot does not always come up with accurate responses. Feel free to rweak around with the ``prompt =`` variable to create your own behhaviours.
 
 You may recommend any improvements
