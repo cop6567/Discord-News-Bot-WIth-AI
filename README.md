@@ -1,4 +1,4 @@
-# Discord-News-Bot-WIth-AI
+# Discord-News-Bot-With-AI
 
 A Discord news bot with AI chatbot functionalities thanks to the OpenAI API. The bot fetches news from the NewsAPI and sends
 them every 10 mins. It can also reply with sarcastic responses to messages.
