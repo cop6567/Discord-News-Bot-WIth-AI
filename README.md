@@ -3,7 +3,15 @@
 A Discord news bot with AI chatbot functionalities thanks to the OpenAI API. The bot fetches news from the NewsAPI and sends
 them every 10 mins. It can also reply with sarcastic responses to messages.
 
+
+
+
 **Bot Usage:**
+
+First, install all packages required:
+
+``pip install -r requirements.txt`` on Windows or ``pip3 install -r requirements.txt`` on MacOS
+
 
 replace ``CLIENT_TOKEN = ''``  with your token from the discord developer portal
 
