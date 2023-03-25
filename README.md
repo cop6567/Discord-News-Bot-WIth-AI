@@ -10,7 +10,8 @@ The news API might not send new articles of they are not found every 10 minutes.
 
 **Limitations:**
 
-The bot does not remember past prompts, but you could deep train your own model . The bot can only fix 1-2 lines of code due to limitations from the OpenAI API. The bot does not always come up with accurate responses. Feel free to tweak around with the ``prompt =`` variable to create your own behhaviours.
+The bot does not remember past prompts, but you could deep train your own model . The bot can only fix 1-2 lines of code due to limitations from the OpenAI API. The bot does not always come up with accurate responses. 
+Feel free to tweak around with the ``prompt =`` variable to create your own behhaviours.
 
 
 
