@@ -1,3 +1,6 @@
+# Discord News bot in Python by cop6567 at Github
+# https://github.com/cop6567
+
 import discord
 import asyncio
 import requests
