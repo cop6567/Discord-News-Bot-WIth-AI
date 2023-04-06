@@ -15,7 +15,7 @@ Feel free to tweak around with the ``prompt =`` variable to create your own beha
 
 
 
-**Bot Usage:**
+# **Bot Usage:**
 
 First, install all packages required:
 
